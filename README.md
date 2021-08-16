@@ -10,11 +10,9 @@
 </p>
 
 <br> 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpsevdiotis&show_icons=true&locale=en&layout=compact&theme=radical" alt="gpsevdiotis" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpsevdiotis&show_icons=true&locale=en&layout=compact&theme=radical" alt="gpsevdiotis" /></p>
 <br>
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gpsevdiotis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gpsevdiotis" /></a></p><br><br>
 
 
 
