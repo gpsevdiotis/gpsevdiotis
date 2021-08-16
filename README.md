@@ -10,7 +10,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpsevdiotis&show_icons=true&locale=en&layout=compact&theme=radical" alt="gpsevdiotis" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpsevdiotis&show_icons=true&locale=en&layout=compact&theme=radical" alt="gpsevdiotis" /></p>
 
 
 <h2 align="center">Support:</h2>
