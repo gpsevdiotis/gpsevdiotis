@@ -1,4 +1,4 @@
-### Hi there, I'm George[website] 👋
+### Hi there, I'm George 👋
 
 ## I'm a Student, Referee, Gamer!!
 
