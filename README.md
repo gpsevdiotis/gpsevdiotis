@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Psevdiotis</h1>
 <h3 align="center">BSc Computer Science Student @ Cardiff University</h3>
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">	
 <a href="https://fb.com/nutroncy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nutroncy" height="30" width="40" /></a>
