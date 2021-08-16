@@ -10,12 +10,13 @@
 <a href="https://discord.gg/GtPu7VVAf5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GtPu7VVAf5" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpsevdiotis&show_icons=true&locale=en&layout=compact" alt="gpsevdiotis" /></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpsevdiotis&show_icons=true&locale=en&layout=compact&theme=radical" alt="gpsevdiotis" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpsevdiotis&show_icons=true&locale=en&theme=radical" alt="gpsevdiotis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpsevdiotis&" alt="gpsevdiotis" /></p>
+
 
 
 
