@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, welcome to my Github Profile</h1>
-<h2 align="center">I am George Psevdiotis </h2>
+<h2 align="center">I am George Psevdiotis, </h2>
 <h3 align="center">BSc Computer Science Student @ Cardiff University</h3>
 <hr>
 <br>
