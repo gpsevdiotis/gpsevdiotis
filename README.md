@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, welcome to my Github Profile</h1>
 <h2 align="center">I am George Psevdiotis, </h2>
-<h3 align="center">BSc Computer Science Student @ Cardiff University</h3>
+<h3 align="center">MSC Data Science and Analytics. </h3>
+  <hr>
+<h3>BSc Computer Science Student @ Cardiff University</h3>
 <hr>
 <br>
 <h3 align="center">Connect with me:</h3>
