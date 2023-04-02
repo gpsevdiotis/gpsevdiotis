@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, welcome to my Github Profile</h1>
-<h3 align="center">MSc Data Science and Analytics Student. </h3>
+<h3 align="center">MSc Data Science and Analytics Student</h3>
 <h3 align="center">BSc Computer Science</h3>
 <h3 align="center"> @ Cardiff University</h3>
 <br>
