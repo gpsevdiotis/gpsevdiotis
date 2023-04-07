@@ -68,7 +68,7 @@
       </td>
    </tr>
 </table>
-<br><br>
+<br>
 <h3 align="center">Find me at:</h3>
 <p align="center">	
 <a href="https://fb.com/nutroncy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nutroncy" height="30" width="40" /></a>
