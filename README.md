@@ -55,7 +55,3 @@
 <br><br>
 <h2 align="left">Support:</h2><hr>
 <p><a href="https://ko-fi.com/gpsevdiotis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gpsevdiotis" /></a></p><br><br>
-<<<<<<< HEAD
-=======
-
->>>>>>> cb94fc106e0988bfc369756b1d11411defd953ce
