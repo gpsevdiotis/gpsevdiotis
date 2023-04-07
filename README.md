@@ -76,10 +76,10 @@
 <a href="https://linkedin.com/in/gpsevdiotis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gpsevdiotis" height="30" width="40" /></a>
 <a href="https://discord.com/users/648603775811977216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GtPu7VVAf5" height="30" width="40" /></a>
 </p>
-
-<h2 align="left">Support:</h2>
+<br>
+<hr>
 <p><a href="https://ko-fi.com/gpsevdiotis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="gpsevdiotis" /></a></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gpsevdiotis&label=Profile%20views%20Counter&color=blue&style=for-the-badge" alt="gpsevdiotis" height="40" width="200"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gpsevdiotis&label=Profile%20views%20Counter&color=blue&style=for-the-badge" alt="gpsevdiotis" height="30" width="200"/> </p>
 
 <!--
 <h2>Programming Languages:</h2>
