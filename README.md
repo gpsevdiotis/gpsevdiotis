@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, welcome to my Github Profile 👾</h1>
 <h3 align="center">MSc Data Science and Analytics Student</h3>
 <h3 align="center">BSc Computer Science</h3>
-<h3 align="center"> @ Cardiff University</h3>
+<h2 align="center"> @ Cardiff University</h2>
 <br>
-
 <table align="center">
    <tr align="center">
       <th>Programming Languages:</th>
@@ -68,7 +67,6 @@
       </td>
    </tr>
 </table>
-<br>
 <h3 align="center">Find me at:</h3>
 <p align="center">	
 <a href="https://fb.com/gpsevdiotis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gpsevdiotis" height="30" width="40" /></a>
@@ -78,7 +76,7 @@
 </p>
 <br>
 <hr>
-<p><a href="https://ko-fi.com/gpsevdiotis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="gpsevdiotis" /></a></p>
+<p><a href="https://ko-fi.com/gpsevdiotis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="48" width="200" alt="gpsevdiotis" /></a></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gpsevdiotis&label=Profile%20views%20Counter&color=blue&style=for-the-badge" alt="gpsevdiotis" height="30" width="200"/> </p>
 
 <!--
