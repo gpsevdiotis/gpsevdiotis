@@ -55,5 +55,5 @@
 <br><br>
 <h2 align="left">Support:</h2><hr>
 <p><a href="https://ko-fi.com/gpsevdiotis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gpsevdiotis" /></a></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gpsevdiotis&label=Profile%20views&color=blue&style=for-the-badge" alt="gpsevdiotis" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gpsevdiotis&label=Profile%20views%20Counter&color=blue&style=for-the-badge" alt="gpsevdiotis" /> </p>
 <br><br>
