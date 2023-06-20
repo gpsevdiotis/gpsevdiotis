@@ -77,7 +77,7 @@
 <br>
 
 <details>
-  <summary><h2>GitHub Stats</h2>
+  <summary><h2>GitHub Stats</h2></summary>
 <p align="center">
   <a href="https://github.com/gpsevdiotis">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpsevdiotis&theme=transparent" />
@@ -89,7 +89,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=gpsevdiotis&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" /> 
   </a>
 </p>
-     </summary>
 </details>
 <hr>
 <p><a href="https://ko-fi.com/gpsevdiotis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="48" width="200" alt="gpsevdiotis" /></a></p>
