@@ -1,3 +1,4 @@
+<div align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A1A1A1&multiline=true&repeat=false&width=435&lines=George+Psevdiotis" alt="Typing SVG" /></a>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=MSc+Data+Science+and+Analytics+Student" alt="Typing SVG" /></a>
@@ -6,6 +7,8 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D63A4A&multiline=true&repeat=false&width=435&lines=%40+Cardiff+University" alt="Typing SVG" /></a>
 <br>
+</div>
+
 <table align="center">
    <tr align="center">
       <th>Programming Languages:</th>
