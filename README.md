@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary><h1>Tools</h1></summary>
+  <summary><h1>Programming Tools</h1></summary>
 <table align="center">
    <tr align="center">
       <th>Programming Languages:</th>
