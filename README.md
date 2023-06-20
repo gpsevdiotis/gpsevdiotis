@@ -79,6 +79,21 @@
 <p><a href="https://ko-fi.com/gpsevdiotis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="48" width="200" alt="gpsevdiotis" /></a></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gpsevdiotis&label=Profile%20views%20Counter&color=blue&style=for-the-badge" alt="gpsevdiotis" height="30" width="200"/> </p>
 
+
+
+<github>
+<p align="center">
+  <a href="https://github.com/gpsevdiotis">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpsevdiotis&theme=transparent" />
+  </a>
+  <a href="https://github.com/gpsevdiotis">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gpsevdiotis&theme=transparent" />
+  </a>
+  <a href="https://github.com/gpsevdiotis">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gpsevdiotis&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" /> 
+  </a>
+</p>
+</github>
 <!--
 <h2>Programming Languages:</h2>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
