@@ -9,6 +9,8 @@
    <br>
 </div>
 
+<details>
+  <summary><h1>Tools</h1></summary>
 <table align="center">
    <tr align="center">
       <th>Programming Languages:</th>
@@ -73,6 +75,8 @@
       </td>
    </tr>
 </table>
+   </details>
+
 <h3 align="center">Find me at:</h3>
 <p align="center">	
 <a href="https://fb.com/gpsevdiotis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gpsevdiotis" height="30" width="40" /></a>
