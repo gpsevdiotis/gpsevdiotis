@@ -5,7 +5,7 @@
 <br>
 <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&multiline=true&repeat=false&width=435&lines=BSc+Computer+Science;with+First+Class+Honours" alt="Typing SVG" /></a>
    <br><br>
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=D63A4A&center=true&multiline=true&repeat=false&width=435&lines=%40+Cardiff+University" alt="Typing SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&size=25&color=D63A4A&center=true&multiline=true&repeat=false&width=435&lines=%40+Cardiff+University" alt="Typing SVG" /></a>
    <br>
 </div>
 
