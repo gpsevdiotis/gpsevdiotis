@@ -99,7 +99,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gpsevdiotis&label=Profile%20views%20Counter&color=blue&style=for-the-badge" alt="gpsevdiotis" height="30" width="200"/> </p>
 
 <br><br>
-<h3 align="center">Find me at:</h3>
+<h3 align="center">Find me on:</h3>
 <p align="center">	
 <a href="https://fb.com/gpsevdiotis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gpsevdiotis" height="30" width="40" /></a>
 <a href="https://instagram.com/nutron14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nutron14" height="30" width="40" /></a>
