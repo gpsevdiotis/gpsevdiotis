@@ -101,10 +101,7 @@
 <br><br>
 <h3 align="center">Find me on:</h3>
 <p align="center">	
-<a href="https://fb.com/gpsevdiotis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gpsevdiotis" height="30" width="40" /></a>
-<a href="https://instagram.com/nutron14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nutron14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gpsevdiotis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gpsevdiotis" height="30" width="40" /></a>
-<a href="https://discord.com/users/648603775811977216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GtPu7VVAf5" height="30" width="40" /></a>
 </p>
 
 
